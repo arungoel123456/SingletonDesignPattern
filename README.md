@@ -1,5 +1,4 @@
 # SingletonDesignPattern
-# Application Logger - Singleton Design Pattern Example
 
 ## Overview
 This repository contains a simple implementation of an application logger to demonstrate the **Singleton Design Pattern**. The Singleton pattern ensures that a class has only one instance and provides a global point of access to that instance. In this project, the logger is used as an example of how the Singleton pattern can be applied to restrict instantiation of a logging class to just one object.
